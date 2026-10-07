@@ -35,36 +35,8 @@ I'm a web developer based in Dhaka, Bangladesh. I build responsive apps and conn
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,py&theme=dark" alt="Languages"/>
-
-**Frameworks and libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frameworks"/>
-
-**Database, deployment and tools**
-
-<img src="https://skillicons.dev/icons?i=mongodb,vercel,git,github,npm&theme=dark" alt="Tools"/>
-
-**Machine learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,py&theme=dark" alt="Machine learning"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/DaisyUI-22D3EE?style=for-the-badge&logo=daisyui&logoColor=0B1220&labelColor=0B1220" alt="DaisyUI"/>
-<img src="https://img.shields.io/badge/better--auth-6366F1?style=for-the-badge&labelColor=0B1220" alt="better-auth"/>
-<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0B1220" alt="Google OAuth"/>
-<img src="https://img.shields.io/badge/Resend-A78BFA?style=for-the-badge&labelColor=0B1220" alt="Resend"/>
-<img src="https://img.shields.io/badge/Recharts-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Recharts"/>
-<img src="https://img.shields.io/badge/React%20Context-61DAFB?style=for-the-badge&logo=react&logoColor=0B1220&labelColor=0B1220" alt="React Context"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0B1220" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white&labelColor=0B1220" alt="Qiskit"/>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
+🛠️ Tech Stack
+<div align="center"> <img src="assets/tech-stack.svg" width="100%" alt="Tech stack. Languages: JavaScript, TypeScript, HTML, CSS, Python. Frontend: React, Next.js, Tailwind CSS, Vite. Backend and Auth: MongoDB, Google OAuth, Resend. Machine Learning: TensorFlow, Keras, scikit-learn, Pandas, NumPy, Streamlit. Quantum: Qiskit. Tools and Deploy: Git, GitHub, npm, Vercel, Hugging Face."/> </div>
 
 ## 📈 GitHub Stats
 
@@ -75,7 +47,7 @@ I'm a web developer based in Dhaka, Bangladesh. I build responsive apps and conn
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=theopsupcorp1009&hide_border=false&border=1E3A5F&background=0B1220&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideLabels=22D3EE&sideNums=FFFFFF&dates=94A3B8&stroke=1E3A5F" alt="Contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theopsupcorp1009&bg_color=0B1220&color=22D3EE&line=818CF8&point=FFFFFF&area=true&area_color=6366F1&hide_border=true&radius=14" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/22D3EE/theopsupcorp1009" width="100%" alt="Contribution heatmap"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theopsupcorp1009/theopsupcorp1009/output/github-snake-dark.svg">
