@@ -63,6 +63,7 @@ I'm a web developer based in Dhaka, Bangladesh. I build responsive apps and conn
 
 <div align="center">
 
+<a href="https://github.com/theopsupcorp1009/bazar-dor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=bazar-dor&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="bazar-dor"/></a>
 <a href="https://github.com/theopsupcorp1009/bangla-news-24"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=bangla-news-24&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="bangla-news-24"/></a>
 <a href="https://github.com/theopsupcorp1009/fit-log"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=fit-log&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="fit-log"/></a>
 <a href="https://github.com/theopsupcorp1009/hero-app"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=hero-app&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="hero-app"/></a>
@@ -76,6 +77,7 @@ I'm a web developer based in Dhaka, Bangladesh. I build responsive apps and conn
 
 | Project | What it does | Stack | Live |
 |---------|--------------|-------|:----:|
+| 🛒 **Bazar Dor** | Bengali price-tracking website with daily market prices, product and category pages, price change indicators, sorting options and responsive layouts and full auth: email and password, Google sign-in, GitHub sign-in and protected routes | Next.js, TypeScript, Tailwind 4, better-auth, MongoDB | [![Live](https://img.shields.io/badge/Open-22D3EE?style=flat-square&labelColor=0B1220)](https://bazar-dor-puce.vercel.app) |
 | 📰 **Bangla News 24** | Bengali news portal with live headlines, category pages, a "Most Read" sidebar, a scrolling ticker and full auth: email and password, Google sign-in, email verification, password reset and protected routes | Next.js, TypeScript, Tailwind 4, better-auth, MongoDB, Resend | [![Live](https://img.shields.io/badge/Open-22D3EE?style=flat-square&labelColor=0B1220)](https://bangla-news-24-woad.vercel.app) |
 | 💪 **FitLog** | Gym companion with a 12-workout library, daily plan and saved list, sorting, live navbar counters and a plan that survives reloads | Next.js, React, DaisyUI, Context API, localStorage | [![Live](https://img.shields.io/badge/Open-22D3EE?style=flat-square&labelColor=0B1220)](https://fit-log-livid.vercel.app) |
 | 🚀 **HERO.IO** | App-store style marketplace with a trending carousel, live search, install and uninstall, and a sortable personal library | Next.js, TypeScript, Tailwind 4, DaisyUI | [![Live](https://img.shields.io/badge/Open-22D3EE?style=flat-square&labelColor=0B1220)](https://hero-app-three-rho.vercel.app) |
