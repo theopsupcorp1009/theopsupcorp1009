@@ -91,7 +91,7 @@ I'm a web developer based in Dhaka, Bangladesh. I build responsive apps and conn
 <a href="mailto:mrkhan.ds.swe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/m-r-khan-dipu393"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://github.com/theopsupcorp1009"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://sites.google.com/view/mrkhandipu/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="Portfolio"/></a>
+<a href="https://m-r-khan-dipu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="Portfolio"/></a>
 
 <br/><br/>
 
