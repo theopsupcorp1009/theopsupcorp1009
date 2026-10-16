@@ -31,6 +31,7 @@ I'm a web developer based in Dhaka, Bangladesh. I build responsive apps and conn
 - 💬 **Ask me about:** Next.js, React, TypeScript, Tailwind CSS, auth flows and state management
 - 🧠 **Also:** a published researcher in deep learning for EEG and medical data, with two conference papers
 - 📫 **Reach me at:** [mrkhan.ds.swe@gmail.com](mailto:mrkhan.ds.swe@gmail.com)
+- 📫 **Visit My Portfolio:** [M R Khan Dipu](https://m-r-khan-dipu.vercel.app/)
 - ⚡ **Fun fact:** I code the web by day and train neural networks on brain signals by night
 
 <img src="assets/divider.svg" width="100%" alt=""/>
