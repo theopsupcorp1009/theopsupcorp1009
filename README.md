@@ -64,6 +64,7 @@ I'm a web developer based in Dhaka, Bangladesh. I build responsive apps and conn
 
 <div align="center">
 
+<a href="https://github.com/theopsupcorp1009/book-nook"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=book-nook&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="book-nook"/></a>
 <a href="https://github.com/theopsupcorp1009/bazar-dor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=bazar-dor&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="bazar-dor"/></a>
 <a href="https://github.com/theopsupcorp1009/bangla-news-24"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=bangla-news-24&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="bangla-news-24"/></a>
 <a href="https://github.com/theopsupcorp1009/fit-log"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theopsupcorp1009&repo=fit-log&border_color=1E3A5F&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" alt="fit-log"/></a>
